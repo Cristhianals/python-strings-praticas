@@ -73,7 +73,7 @@ Exemplos de exercícios que você encontrará:
 1. Certifique-se de ter o **Python 3** instalado. 
 2. Clone o repositório:
 ```bash
-git clone https://github.com/Cristhianals/python-estruturas-dados
+git clone https://github.com/Cristhianals/python-strings-praticas
 ```
 3. Entre na pasta do exercício desejado:
 ```bash
