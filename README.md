@@ -1,7 +1,11 @@
 # 🐍 Repositório de Exercícios de Strings em Python
 
 ## 📋 Sobre o Repositório
-Este repositório contém uma coleção de **exercícios práticos focados em strings em Python**, desenvolvidos para aprender e fixar conceitos essenciais de **manipulação de textos e caracteres**.  
+
+Este repositório reúne uma coleção de **exercícios práticos de manipulação de strings em Python** que eu desenvolvi **como parte do meu processo de aprendizado e evolução na programação**.  
+Cada exercício aqui foi criado com o objetivo de **praticar, experimentar e consolidar conceitos fundamentais** de **manipulação de textos e caracteres**. 
+
+---
 
 O objetivo é praticar operações como:  
 - Remoção e substituição de caracteres.  
@@ -21,6 +25,16 @@ Este repositório ajuda você a:
 - Resolver problemas práticos de manipulação de texto.  
 - Praticar **construção dinâmica de strings** e lógica de verificação de caracteres.  
 - Desenvolver **raciocínio lógico e atenção a detalhes**, fundamentais em programação.
+
+---
+
+## 🌟 Destaque: Projeto “Jogo da Velha”
+
+Entre os exercícios que desenvolvi, um dos mais importantes para o meu aprendizado foi o **Jogo da Velha**.  
+Esse projeto representa um marco na minha evolução, pois me fez aplicar diversos conceitos de **strings**, **estruturas de repetição** e **lógica condicional** para criar um jogo funcional e interativo no terminal.
+
+👉 Confira o projeto completo aqui:  
+**[🔗 Jogo da Velha - Exercício Especial](https://github.com/Cristhianals/python-strings-praticas/tree/main/jogo-da-velha)**
 
 ---
 
