@@ -14,18 +14,18 @@ O jogo pode ser representado como uma lista de três elementos, onde cada elemen
 Exemplo de tabuleiro:
 
 x | O |   
----+---+---  
-  | x | x  
----+---+---  
-  |   | O  
+--+---+---   
+  | x | x     
+--+---+---       
+  |   | O    
 
 
 Posições mapeadas como no teclado numérico:
 
 7 | 8 | 9  
----+---+---  
+--+---+---  
 4 | X | 6  
----+---+---  
+--+---+---  
 1 | 2 | 3  
 
 ---
@@ -55,25 +55,25 @@ Posições mapeadas como no teclado numérico:
 ## 🖥 Exemplo de execução
 
 7 | 8 | 9  
----+---+---  
+--+---+---  
 4 | 5 | 6  
----+---+---  
+--+---+---  
 1 | 2 | 3  
 
 Em qual posicao deseja colocar o X (de 1 a 9): 5  
 
 7 | 8 | 9  
----+---+---  
+--+---+---  
 4 | X | 6  
----+---+---  
+--+---+---  
 1 | 2 | 3  
 
 Em qual posicao deseja colocar o O (de 1 a 9): 1  
 
 7 | 8 | 9  
----+---+---  
+--+---+---  
 4 | X | 6  
----+---+---  
+--+---+---  
 0 | 2 | 3  
 
 
