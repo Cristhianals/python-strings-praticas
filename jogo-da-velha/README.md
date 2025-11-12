@@ -12,21 +12,22 @@ Escreva um jogo da velha para dois jogadores. O jogo deve:
 
 O jogo pode ser representado como uma lista de três elementos, onde cada elemento também é uma lista com três elementos. 
 Exemplo de tabuleiro:
-
-x | O |   
---+---+---   
-  | x | x     
---+---+---       
-  |   | O    
-
+```text
+X | O |  
+--+---+---  
+  | X | X  
+--+---+---  
+  |   | O 
+```
 
 Posições mapeadas como no teclado numérico:
-
+```text
 7 | 8 | 9  
 --+---+---  
 4 | X | 6  
 --+---+---  
 1 | 2 | 3  
+```
 
 ---
 
@@ -54,6 +55,7 @@ Posições mapeadas como no teclado numérico:
 
 ## 🖥 Exemplo de execução
 
+```text
 7 | 8 | 9  
 --+---+---  
 4 | 5 | 6  
@@ -75,5 +77,4 @@ Em qual posicao deseja colocar o O (de 1 a 9): 1
 4 | X | 6  
 --+---+---  
 0 | 2 | 3  
-
-
+```
