@@ -86,6 +86,11 @@ while True:
 
 ---
 
+## 🚀 Código da solução
+O código completo está disponível em [`forca-boneco-lista.py`](./forca-boneco-lista.py). 
+
+---
+
 ## 🧩 Exemplo de execução
 
 digite um numero: 7  

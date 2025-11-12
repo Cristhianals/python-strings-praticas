@@ -28,7 +28,7 @@ Aprender a utilizar a função **`.find()`** para **buscar substrings dentro de 
 
 ## 🚀 Código da solução
 
-O código completo está disponível em [`main.py`](./main.py).
+O código completo está disponível em [`usando-find.py`](./usando-find.py).
 
 ---
 

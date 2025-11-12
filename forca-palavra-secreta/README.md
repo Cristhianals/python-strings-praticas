@@ -77,7 +77,7 @@ while True:
 ---
 
 ## 🚀 Código da solução
-O código completo está disponível em [`jogo-da-velha.py`](./jogo-da-velha.py).
+O código completo está disponível em [`forca-palavra-secreta.py`](./forca-palavra-secreta.py).
 
 ---
 

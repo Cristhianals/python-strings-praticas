@@ -27,7 +27,7 @@ Aprender a contar **frequência de caracteres** em uma string, usando funções 
 ---
 
 ## 🚀 Código da solução
-O código completo está disponível em [`main.py`](./main.py).
+O código completo está disponível em [`contagem-frequencia.py`](./contagem-frequencia.py).
 
 ---
 

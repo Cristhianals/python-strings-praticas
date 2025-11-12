@@ -32,7 +32,7 @@ Este exercício reforça o uso de:
 ---
 
 ## 🚀 Código da solução
-O código completo está disponível em [`main.py`](./main.py).
+O código completo está disponível em [`caracteres-unicos.py`](./caracteres-unicos.py).
 
 ---
 

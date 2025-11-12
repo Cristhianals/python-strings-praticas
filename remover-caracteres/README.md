@@ -28,7 +28,7 @@ Aprender a **remover caracteres** de uma string usando lógica de comparação, 
 ---
 
 ## 🚀 Código da solução
-O código completo está disponível em [`main.py`](./main.py).
+O código completo está disponível em [`remover-caracteres.py`](./remover-caracteres.py).
 
 ---
 

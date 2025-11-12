@@ -28,7 +28,7 @@ Aprender a identificar **caracteres comuns entre duas strings** e utilizar funç
 ---
 
 ## 🚀 Código da solução
-O código completo está disponível em [`main.py`](./main.py).
+O código completo está disponível em [`usando-join-e-find.py`](./usando-join-e-find.py).
 
 ---
 

@@ -33,7 +33,7 @@ Aprender a:
 ---
 
 ## 🚀 Código da solução
-O código completo está disponível em [`main.py`](./main.py).
+O código completo está disponível em [`substituicao-caracteres.py`](./substituicao-caracteres.py).
 
 ---
 
