@@ -19,7 +19,7 @@ Modifique o programa da forca (do exercício anterior) de forma que:
 ---
 
 ## 🚀 Código da solução
-O código completo está disponível em [`remover-caracteres.py`](./remover-caracteres.py).  
+O código completo está disponível em [`forca-lista-palavras.py`](./forca-lista-palavras.py).  
 
 
 ## 💡 Código original do exercício
